@@ -1,0 +1,37 @@
+#container {
+    background-color: rgba(158, 220, 224, 0.9);
+    height: 600px;
+    width: 100%;
+    position: absolute;
+  }
+ .box {
+    background-color: white;
+    height: 340px;
+    width: 400;
+    position: absolute;
+    margin-left: 400px;
+    margin-top: 120;
+    padding: 40px;
+  }
+h1{
+  margin-left: 30;
+  margin-top: 3;
+  font-style: ;
+}
+input {
+  margin-left: 30px;
+  height: 35px;
+  width: 100%;
+  border: none;
+  border-bottom: 1px black solid;margin-right: 500px;
+}
+
+button {
+  margin-left: 300;
+ background-color: rgb(66, 66, 196); 
+ height: 30px;
+ width: 75px;
+}
+p {
+  margin-top: 25px;
+  margin-left: 32px;
